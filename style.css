@@ -1,0 +1,12 @@
+.Heading{
+    color: brown;
+    font-size: 40px;
+    text-align: center;
+}
+#para{
+    color: goldenrod;
+    font-size: 19px;
+}
+body{
+    background-color: aquamarine;
+}
